@@ -1,30 +1,38 @@
-# 🤖 MediBot AI - Clinic Automation & WhatsApp Chatbot
+ # 🤖 MediBot AI - 24/7 Clinic Automation & WhatsApp Chatbot
 
-An advanced AI-powered automation system designed specifically for doctors, clinics, and healthcare providers to eliminate missed patient calls, automate 24/7 appointment bookings, and scale local medical practices.
+An advanced, AI-powered automation system designed specifically for doctors, clinics, and healthcare providers to eliminate missed patient calls, automate round-the-clock appointment bookings, and scale modern medical practices.
 
 ---
 
-## 🚀 Key Features
+## 🚀 Live Demo & Portfolio
+Check out the live interactive landing page hosted on GitHub Pages:
+👉 **[Live Demo Website](https://mk906036875-create.github.io/whatsapp-ai-automation/)**
 
-* **24/7 AI WhatsApp Chatbot:** Patients can message anytime to check doctor availability and book consultation slots instantly.
-* **Missed Call Text-Back:** Automatically triggers a WhatsApp text to patients if a clinic call goes unanswered, capturing lost leads.
-* **Smart Reminders:** Reduces no-show rates by sending automated confirmation and reminder texts before appointments.
+---
+
+## ✨ Key Features
+
+* **24/7 AI WhatsApp Booking:** Patients can message anytime (even late at night) to check doctor availability and book consultation slots instantly.
+* **Missed Call Recovery:** Automatically triggers a polite WhatsApp text to patients if a clinic phone call goes unanswered, capturing lost leads.
+* **Smart Reminders:** Reduces no-show rates by sending automated confirmation and reminder texts before scheduled appointments.
 * **Google Review Booster:** Automatically requests patient feedback and Google ratings after a clinic visit to build online reputation.
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **Frontend (Landing Page):** HTML5, Tailwind CSS
+* **Frontend (Landing Page):** HTML5, Custom CSS (Dark Premium Theme)
+* **Scripting:** JavaScript (DOM Manipulation & Smooth Scrolling)
 * **Automation & Flow:** No-Code / Low-Code AI Chatbot Architecture
 * **Integration:** WhatsApp Business API / Webhooks
 
 ---
 
-## 💡 Why This Project?
-Traditional clinics lose up to 30% of potential patients due to missed calls and delayed responses outside working hours. MediBot AI solves this by keeping the communication loop active round the clock.
+## 📂 Project Structure
 
----
-
-## 🌐 Live Demo & Contact
-Check out the landing page or contact for setting up custom AI automation for healthcare businesses.
+```text
+whatsapp-ai-automation/
+│
+├── index.html       # Main landing page (UI/UX)
+├── style.css        # Premium dark theme styling
+└── script.js        # Interactive frontend script
